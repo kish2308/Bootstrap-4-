@@ -1,0 +1,85 @@
+body {
+    margin: none;
+    width: 100%;
+}
+
+div.jumbotron {
+    text-align: center;
+    background: none;
+    color: ghostwhite;
+    font-family: cursive;
+}
+
+div.section-light {
+    background-image: url(assets/skate2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.section-dark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+div.lo {
+    font-family: cursive;
+    color: black;
+}
+
+button.cool {
+    background-color: red;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    display: block;
+    margin: auto;
+}
+
+.coolstuff {
+    margin-top: 15px;
+
+}
+
+h5.modal-title {
+    display: block;
+    margin-left: auto;
+}
+
+.wrapper {
+    margin-top: 50px;
+}
+
+.card {
+    display: block;
+    margin: auto;
+    box-shadow: 4px rgba(0, 0, 0, .15);
+
+}
+
+.section-three {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.footimg {
+    padding: 15px;
+}
+
+.social {
+    margin: auto;
+}
+
+.fab {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #fff;
+}
